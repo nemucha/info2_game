@@ -10,6 +10,6 @@
 - 赤の球は攻撃力が強い、緑の球はスピードが速い
 
 # 強化フェーズ
-以下の画像の通り
+### 以下の画像の通り
 <img width="200" alt="image" src="https://github.com/nemucha/info2_game/assets/121393273/e7c5f573-eefe-4f0a-8837-79feddd244ae">
 
