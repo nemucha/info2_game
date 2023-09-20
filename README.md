@@ -6,4 +6,5 @@
 - 防衛フェーズでの上キー入力:照準の高さを高くする(惑星からの距離が遠くなる)。
 - 防衛フェーズでの下キー入力:照準の高さを低くする(惑星からの距離が近くなる)。
 - 防衛フェーズでのスペースキー入力:照準に向かって球を発射する。
-![image](https://github.com/nemucha/info2_game/assets/121393273/c1b56ccd-cdb4-4535-92a1-a38575c97cff)
+<img width="200" alt="image" src="https://github.com/nemucha/info2_game/assets/121393273/e7c5f573-eefe-4f0a-8837-79feddd244ae">
+
