@@ -14,7 +14,7 @@
 ###### 以下の画像の通り
 <img width="200" alt="image" src="https://github.com/nemucha/info2_game/assets/121393273/e7c5f573-eefe-4f0a-8837-79feddd244ae">
 
-#ゲームのリンク
+# ゲームのリンク
 
 [ゲームをやってみる](https://nemucha.github.io/info2_game/)
 
